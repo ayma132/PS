@@ -1,0 +1,149 @@
+
+body {
+  background-color: #F4DFBA;
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+hr {
+  border: dotted #876445 6px;
+  border-bottom: none;
+  width: 4%;
+  margin: 100px auto;
+}
+
+
+h1 {
+  color: #EEC373 ;
+  line-height: 105px;
+  font-size: 5em;
+  margin: 0 auto 0 auto;
+  font-family: 'Delius Swash Caps', cursive;
+}
+
+.heading-2 {
+  font-size: 2rem;
+}
+
+ h2 {
+   color: #CA965C;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  font-weight: normal;
+}
+
+ h3 {
+   color: #876445;
+   font-family: 'Montserrat', sans-serif;
+ }
+
+ .lol {
+   margin: 15px 0 0;
+   width: 45%;
+ }
+
+.div {
+  background-color: #CA965C ;
+}
+
+.top-container {
+  background-color: #876445;
+  position: relative;
+  padding-top: 80px;
+}
+
+a {
+  color: #EEC373;
+  font-family: 'Montserrat', sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #CA965C;
+}
+
+.copyright {
+  color: #eaf6f6;
+  font-size: 0.75rem;
+  padding: 20px 0;
+}
+
+
+.middle-container {
+  margin: 100px
+}
+
+.bottom-container {
+  background-color: #876445;
+  padding: 50px 0 20px;
+}
+
+.Pro {
+  text-decoration: underline;
+}
+
+.bottom-cloud {
+  width: 170px;
+  position: absolute;
+  left: 250px;
+  bottom: 300px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 40px;
+}
+
+.Lofi {
+  width: 40%;
+  float: left;
+  margin-right: 30px;
+}
+
+.mockup {
+  width: 30%;
+  float: right;
+  margin-left: 30px;
+}
+
+.skill-row {
+  width: 40%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.Photo {
+  width: 20%;
+}
+
+.Intro {
+  width: 30%;
+  margin: auto;
+
+}
+
+.contact-message {
+  width: 40%;
+  margin: 40px auto 60px;
+}
+
+.btn {
+  -webkit-border-radius: 12;
+  -moz-border-radius: 12;
+  border-radius: 12px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  background: #cfb07a;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #4d9191;
+  text-decoration: none;
+}
